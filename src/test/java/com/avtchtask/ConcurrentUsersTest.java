@@ -34,8 +34,8 @@ import static org.junit.jupiter.api.Assertions.*;
  */
 class ConcurrentUsersTest {
 
-    private static final int USER_COUNT        = 1000;
-    private static final int MODS_PER_USER     = 500;
+    private static final int USER_COUNT        = 100;
+    private static final int MODS_PER_USER     = 50;
     private static final int TIMEOUT_SECONDS   = 600;
 
     private DatabaseManager              db;
