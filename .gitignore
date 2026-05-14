@@ -1,0 +1,15 @@
+# Build output
+target/
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# IDE
+.idea/
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
