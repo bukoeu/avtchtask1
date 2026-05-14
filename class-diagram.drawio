@@ -1,3 +1,320 @@
-<mxfile host="app.diagrams.net" modified="2026-05-14" agent="GitHub Copilot" version="24.7.5">
-  <diagram id="3HOVz6VXeZqLE2SXOMEL" name="Page-1">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</diagram>
+<mxfile host="65bd71144e">
+    <diagram id="3HOVz6VXeZqLE2SXOMEL" name="Page-1">
+        <mxGraphModel dx="1824" dy="2611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="pkg_repo" value="com.avtchtask.repository" style="swimlane;startSize=20;fillColor=#f0fff0;strokeColor=#999999;fontStyle=3;fontSize=11;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="-440" width="780" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="ur" value="&lt;&lt;interface&gt;&gt; UserRepository&#xa;---&#xa;+ login(userId)&#xa;+ logout(userId)&#xa;+ isLoggedIn(userId) : boolean&#xa;+ getLoggedInUsers() : Set" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=10;html=0;" parent="pkg_repo" vertex="1">
+                    <mxGeometry x="20" y="40" width="220" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="mr" value="&lt;&lt;interface&gt;&gt; ModificationRepository&#xa;---&#xa;+ addModification(userId, ts)&#xa;+ getModificationCountByUser() : Map&#xa;+ getUsersWithModifications() : Set" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=10;html=0;" parent="pkg_repo" vertex="1">
+                    <mxGeometry x="280" y="40" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="squr" value="SQLiteUserRepository&#xa;---&#xa;- db : DatabaseManager&#xa;---&#xa;+ login() + logout()&#xa;+ isLoggedIn() + getLoggedInUsers()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=10;html=0;" parent="pkg_repo" vertex="1">
+                    <mxGeometry x="20" y="270" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="sqmr" value="SQLiteModificationRepository&#xa;---&#xa;- db : DatabaseManager&#xa;---&#xa;+ addModification()&#xa;+ getModificationCountByUser()&#xa;+ getUsersWithModifications()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=10;html=0;" parent="pkg_repo" vertex="1">
+                    <mxGeometry x="280" y="220" width="240" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="r_squr" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=block;endFill=0;" parent="pkg_repo" source="squr" target="ur" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="r_sqmr" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=block;endFill=0;" parent="pkg_repo" source="sqmr" target="mr" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="pkg_svc" value="com.avtchtask.service" style="swimlane;startSize=20;fillColor=#fff8f0;strokeColor=#999999;fontStyle=3;fontSize=11;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="-840" width="780" height="370" as="geometry"/>
+                </mxCell>
+                <mxCell id="uss" value="UserSessionService&#xa;---&#xa;- userRepo : UserRepository&#xa;---&#xa;+ login(userId)&#xa;+ logout(userId)&#xa;+ isLoggedIn(userId)" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d6b656;fontStyle=0;fontSize=10;html=0;" parent="pkg_svc" vertex="1">
+                    <mxGeometry x="20" y="40" width="210" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="ms" value="ModificationService&#xa;---&#xa;- modRepo : ModificationRepository&#xa;---&#xa;+ record(userId)" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d6b656;fontStyle=0;fontSize=10;html=0;" parent="pkg_svc" vertex="1">
+                    <mxGeometry x="260" y="40" width="210" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="srs" value="StatsReportService&#xa;---&#xa;- userRepo&#xa;- modRepo&#xa;---&#xa;+ printStats()" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d6b656;fontStyle=0;fontSize=10;html=0;" parent="pkg_svc" vertex="1">
+                    <mxGeometry x="500" y="40" width="210" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="pkg_db" value="com.avtchtask.db" style="swimlane;startSize=20;fillColor=#fff0f0;strokeColor=#999999;fontStyle=3;fontSize=11;" parent="1" vertex="1">
+                    <mxGeometry x="900" y="-840" width="1060" height="560" as="geometry"/>
+                </mxCell>
+                <mxCell id="dm" value="DatabaseManager&#xa;---&#xa;- conn : Connection&#xa;- lock : ReentrantLock (shared)&#xa;- writer : AsyncBatchWriter&#xa;+ metrics : WriteMetrics&#xa;---&#xa;+ execute(sql, params)&#xa;+ initSchema()&#xa;+ queryBoolean(...)&#xa;+ queryStringSet(...)&#xa;+ queryCountMap(...)&#xa;+ close() / getBatchSize()" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=10;html=0;" parent="pkg_db" vertex="1">
+                    <mxGeometry x="30" y="50" width="230" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="abw" value="AsyncBatchWriter&#xa;---&#xa;- conn : Connection (shared)&#xa;- lock : ReentrantLock (shared)&#xa;- batchSize : int&#xa;- writeQueue : BlockingQueue&#xa;- writerThread : Thread&#xa;- running : volatile boolean&#xa;- metrics : WriteMetrics&#xa;---&#xa;+ enqueue(sql, params)&#xa;+ getBatchSize()&#xa;+ close()&#xa;~ writerLoop() / executeBatch()" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=10;html=0;" parent="pkg_db" vertex="1">
+                    <mxGeometry x="470" y="50" width="230" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="wm" value="WriteMetrics&#xa;---&#xa;- writeCounter : AtomicInteger&#xa;- totalWaitNanos / totalWriteNanos&#xa;- min/maxWait / min/maxWrite&#xa;- allWaitNanos / allWriteNanos&#xa;- logQueue : BlockingQueue&#xa;- logOut : PrintStream&#xa;+ verboseLogging : boolean&#xa;+ recordSamples : boolean&#xa;---&#xa;+ setLogFile(path)&#xa;+ getSummary() / getDetailedSummary()&#xa;~ startWrite() / endWrite()&#xa;+ logLocked() / logReleased()" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0;fontSize=10;html=0;" parent="pkg_db" vertex="1">
+                    <mxGeometry x="780" y="190" width="230" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="wt" value="WriteTask (inner)&#xa;---&#xa;sql : String&#xa;params : String[]&#xa;enqueueNanos : long&#xa;future : CompletableFuture" style="rounded=1;dashed=1;fillColor=#fff2cc;strokeColor=#b85450;fontStyle=0;fontSize=10;html=0;" parent="pkg_db" vertex="1">
+                    <mxGeometry x="470" y="450" width="230" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="le" value="LogEntry (inner)&#xa;---&#xa;threadName : String&#xa;writeNo : int&#xa;waitMs : long&#xa;writeMs : long&#xa;locked : boolean" style="rounded=1;dashed=1;fillColor=#fff2cc;strokeColor=#b85450;fontStyle=0;fontSize=10;html=0;" parent="pkg_db" vertex="1">
+                    <mxGeometry x="780" y="450" width="230" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="comp_dm_abw" value="delegates writes" style="edgeStyle=orthogonalEdgeStyle;endArrow=open;startArrow=ERmandOne;startFill=1;fontSize=9;" parent="pkg_db" source="dm" target="abw" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="comp_dm_wm" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=open;startArrow=ERmandOne;startFill=1;" parent="pkg_db" source="dm" target="wm" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="400" y="180"/>
+                            <mxPoint x="400" y="305"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="dep_abw_wm" value="shared" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;fontSize=9;" parent="pkg_db" source="abw" target="wm" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="910" y="160"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="abw_wt" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;" parent="pkg_db" source="abw" target="wt" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="wm_le" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;" parent="pkg_db" source="wm" target="le" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dep_p_uss" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;" parent="1" source="parser" target="uss" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="230" y="-920"/>
+                            <mxPoint x="230" y="-920"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="dep_p_srs" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;" parent="1" source="parser" target="srs" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dep_uss_ur" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;" parent="1" source="uss" target="ur" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="170" y="-600"/>
+                            <mxPoint x="170" y="-600"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="dep_ms_mr" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;" parent="1" source="ms" target="mr" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dep_srs_ur" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;" parent="1" source="srs" target="ur" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="645" y="-640"/>
+                            <mxPoint x="170" y="-640"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="dep_srs_mr" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;" parent="1" source="srs" target="mr" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dep_squr_dm" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;" parent="1" source="squr" target="dm" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="dep_sqmr_dm" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;" parent="1" source="sqmr" target="dm" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="main" value="Main&#xa;---&#xa;+ main(args) : void" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=0;fontSize=10;html=0;" parent="1" vertex="1">
+                    <mxGeometry x="1210" y="-270" width="490" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="dep_main_dm" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;" parent="1" source="main" target="dm" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1070" y="-135"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="dep_main_proc" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;" parent="1" source="main" target="proc" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="880" y="-45"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="dep_main_parser" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;" parent="1" source="main" target="parser" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="860" y="-45"/>
+                            <mxPoint x="860" y="-1020"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="title" value="Classdiagram: avtchtask1" style="text;strokeColor=none;fillColor=none;fontStyle=1;fontSize=41;align=left;verticalAlign=middle;html=0;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="-1500" width="610" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg" value="Legende" style="swimlane;startSize=26;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=13;html=0;" parent="1" vertex="1">
+                    <mxGeometry x="1640" y="-1410" width="310" height="540" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_h1" value="Objekte (Farben)" style="text;strokeColor=none;fillColor=none;fontStyle=1;fontSize=11;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="32" width="290" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_c1s" value="Klasse" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="56" width="100" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_c1t" value="Regular class" style="text;strokeColor=none;fillColor=none;fontSize=10;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="120" y="56" width="180" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_c2s" value="Interface" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="82" width="100" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_c2t" value="Interface / Abstraction" style="text;strokeColor=none;fillColor=none;fontSize=10;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="120" y="82" width="180" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_c3s" value="DB-Klasse" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="108" width="100" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_c3t" value="Database / Infrastructure" style="text;strokeColor=none;fillColor=none;fontSize=10;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="120" y="108" width="180" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_c4s" value="Service" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d6b656;fontSize=10;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="134" width="100" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_c4t" value="Service / Business logic" style="text;strokeColor=none;fillColor=none;fontSize=10;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="120" y="134" width="180" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_c5s" value="Inner Class" style="rounded=1;dashed=1;fillColor=#fff2cc;strokeColor=#b85450;fontSize=10;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="160" width="100" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_c5t" value="Inner class" style="text;strokeColor=none;fillColor=none;fontSize=10;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="120" y="160" width="180" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_c6s" value="Main" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="186" width="100" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_c6t" value="Application entry point" style="text;strokeColor=none;fillColor=none;fontSize=10;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="120" y="186" width="180" height="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_div1" value="" style="line;strokeColor=#aaaaaa;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="218" width="290" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_h2" value="Relationships (Arrows)" style="text;strokeColor=none;fillColor=none;fontStyle=1;fontSize=11;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="228" width="290" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_a1" value="- - - -|&gt;  implements interface" style="text;strokeColor=none;fillColor=none;fontSize=10;fontStyle=2;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="252" width="290" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_a1d" value="Class implements an interface (dashed line + hollow triangle)" style="text;strokeColor=none;fillColor=none;fontSize=9;fontColor=#666666;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="268" width="290" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_a2" value="- - - -&gt;  uses / depends on" style="text;strokeColor=none;fillColor=none;fontSize=10;fontStyle=2;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="300" width="290" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_a2d" value="Class uses another class (dashed line + open arrow)" style="text;strokeColor=none;fillColor=none;fontSize=9;fontColor=#666666;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="316" width="290" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_a3" value="====o&gt;  Composition (owns)" style="text;strokeColor=none;fillColor=none;fontSize=10;fontStyle=2;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="348" width="290" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_a3d" value="Object owns another (lifetime dependent). Solid line + open arrow." style="text;strokeColor=none;fillColor=none;fontSize=9;fontColor=#666666;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="364" width="290" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_div2" value="" style="line;strokeColor=#aaaaaa;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="400" width="290" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_h3" value="Packages (Swimlane borders)" style="text;strokeColor=none;fillColor=none;fontStyle=1;fontSize=11;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="410" width="290" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_p1" value="command  — Input and control flow" style="text;strokeColor=#999999;fillColor=#f9f9f9;fontSize=9;fontStyle=3;rounded=1;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="434" width="290" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_p2" value="service  — Business logic" style="text;strokeColor=#999999;fillColor=#fff8f0;fontSize=9;fontStyle=3;rounded=1;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="458" width="290" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_p3" value="repository  — Data access layer" style="text;strokeColor=#999999;fillColor=#f0fff0;fontSize=9;fontStyle=3;rounded=1;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="482" width="290" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_p4" value="db  — Database infrastructure" style="text;strokeColor=#999999;fillColor=#fff0f0;fontSize=9;fontStyle=3;rounded=1;html=0;" parent="leg" vertex="1">
+                    <mxGeometry x="10" y="506" width="290" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="dep_p_ms" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;exitX=0.872;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.235;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="parser" target="ms" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="340" y="-1045.003076923077" as="sourcePoint"/>
+                        <mxPoint x="365.07692307692287" y="-800.08" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="40" y="-1390" width="1420" height="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="pkg_cmd" value="com.avtchtask.command" style="swimlane;startSize=20;fillColor=#f9f9f9;strokeColor=#999999;fontStyle=3;fontSize=11;" parent="4" vertex="1">
+                    <mxGeometry width="1420" height="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="cmd_iface" value="&lt;&lt;interface&gt;&gt;&#xa;Command&#xa;---&#xa;+ execute() : void" style="shape=mxgraph.flowchart.start_2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=10;html=0;" parent="pkg_cmd" vertex="1">
+                    <mxGeometry x="560" y="40" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="login" value="LoginCommand&#xa;---&#xa;- userId : String&#xa;- sessionService&#xa;---&#xa;+ execute()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=10;html=0;" parent="pkg_cmd" vertex="1">
+                    <mxGeometry x="20" y="100" width="160" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="logout" value="LogoutCommand&#xa;---&#xa;- userId : String&#xa;- sessionService&#xa;---&#xa;+ execute()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=10;html=0;" parent="pkg_cmd" vertex="1">
+                    <mxGeometry x="200" y="100" width="160" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="datmod" value="DataModifyCommand&#xa;---&#xa;- userId : String&#xa;- sessionService&#xa;- modService&#xa;---&#xa;+ execute()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=10;html=0;" parent="pkg_cmd" vertex="1">
+                    <mxGeometry x="380" y="100" width="160" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="statscmd" value="StatsCommand&#xa;---&#xa;- statsReportService&#xa;---&#xa;+ execute()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=10;html=0;" parent="pkg_cmd" vertex="1">
+                    <mxGeometry x="740" y="100" width="160" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="exitcmd" value="ExitCommand&#xa;---&#xa;- processor&#xa;---&#xa;+ execute()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=10;html=0;" parent="pkg_cmd" vertex="1">
+                    <mxGeometry x="960" y="105" width="160" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="invcmd" value="InvalidCommand&#xa;---&#xa;- input : String&#xa;---&#xa;+ execute()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=10;html=0;" parent="pkg_cmd" vertex="1">
+                    <mxGeometry x="1180" y="105" width="160" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="parser" value="CommandParser&#xa;---&#xa;- sessionService&#xa;- modService&#xa;- statsService&#xa;- processor&#xa;---&#xa;+ parse(input) : Command" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=10;html=0;" parent="pkg_cmd" vertex="1">
+                    <mxGeometry x="100" y="280" width="240" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="proc" value="CommandProcessor&#xa;---&#xa;- executor : ExecutorService&#xa;- shutdownSignaled&#xa;- exitLatch&#xa;---&#xa;+ submit(cmd)&#xa;+ signalExit()&#xa;+ gracefulShutdown()" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=10;html=0;" parent="pkg_cmd" vertex="1">
+                    <mxGeometry x="940" y="280" width="200" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="r_login" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=block;endFill=0;" parent="pkg_cmd" source="login" target="cmd_iface" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="100" y="80"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="r_logout" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=block;endFill=0;" parent="pkg_cmd" source="logout" target="cmd_iface" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="280" y="80"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="r_datmod" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=block;endFill=0;" parent="pkg_cmd" source="datmod" target="cmd_iface" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="460" y="80"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="r_stats" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=block;endFill=0;" parent="pkg_cmd" source="statscmd" target="cmd_iface" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="830" y="80"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="r_exit" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=block;endFill=0;" parent="pkg_cmd" source="exitcmd" target="cmd_iface" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1050" y="80"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="r_inv" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=block;endFill=0;" parent="pkg_cmd" source="invcmd" target="cmd_iface" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1260" y="80"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="dep_exit_proc" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;" parent="4" source="exitcmd" target="proc" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
 </mxfile>
