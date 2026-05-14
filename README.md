@@ -4,6 +4,7 @@
 ![Java](https://img.shields.io/badge/Java-21-blue?logo=openjdk)
 ![SQLite](https://img.shields.io/badge/SQLite-3.45-lightgrey?logo=sqlite)
 ![License](https://img.shields.io/badge/license-MIT-green)
+[![Class Diagram](https://img.shields.io/badge/diagram-draw.io-orange?logo=diagramsdotnet)](https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/bukoeu/avtchtask1/main/class-diagram.drawio)
 
 A plain Java 21 console application (no frameworks) that reads commands from stdin and persists
 them asynchronously into a SQLite database. Written to demonstrate Java/JDK know-how, OOP
@@ -59,6 +60,8 @@ Gracefully shuts down the command processor and closes the database connection.
 ## Architecture
 
 The application follows the **Single Responsibility Principle** — each class has one job.
+
+> [View interactive class diagram](https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/bukoeu/avtchtask1/main/class-diagram.drawio)
 
 ```
 com.avtchtask
