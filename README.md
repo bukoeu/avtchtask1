@@ -4,7 +4,9 @@
 ![Java](https://img.shields.io/badge/Java-21-blue?logo=openjdk)
 ![SQLite](https://img.shields.io/badge/SQLite-3.45-lightgrey?logo=sqlite)
 ![License](https://img.shields.io/badge/license-MIT-green)
-[![Class Diagram](https://img.shields.io/badge/diagram-draw.io-orange?logo=diagramsdotnet)](https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/bukoeu/avtchtask1/main/class-diagram.drawio)
+[![Class Diagram](https://img.shields.io/badge/diagram-class--diagram-orange?logo=diagramsdotnet)](https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/bukoeu/avtchtask1/main/class-diagram.drawio)
+[![Async Flow](https://img.shields.io/badge/diagram-async--flow-orange?logo=diagramsdotnet)](https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/bukoeu/avtchtask1/main/async-flow.drawio)
+[![AsyncBatchWriter Flow](https://img.shields.io/badge/diagram-async--batch--writer--flow-orange?logo=diagramsdotnet)](https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/bukoeu/avtchtask1/main/async-batch-writer-flow.drawio)
 
 A plain Java 21 console application (no frameworks) that reads commands from stdin and persists
 them asynchronously into a SQLite database. Written to demonstrate Java/JDK know-how, OOP
@@ -112,6 +114,10 @@ Main thread          CommandProcessor        db-writer-0 thread
 - **AsyncBatchWriter**: single dedicated `db-writer-0` daemon thread drains up to `db.write.batch.size` (default 100) write tasks per SQLite transaction (group commit)
 - **ReentrantLock(fair=true)**: shared between reads (DatabaseManager) and writes (AsyncBatchWriter) to prevent writer starvation
 
+> [View interactive Async Command Execution Flow diagram](https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/bukoeu/avtchtask1/main/async-flow.drawio)
+
+> [View interactive AsyncBatchWriter Flow diagram](https://viewer.diagrams.net/?url=https://raw.githubusercontent.com/bukoeu/avtchtask1/main/async-batch-writer-flow.drawio)
+
 ---
 
 ## Tech Stack
@@ -123,6 +129,7 @@ Main thread          CommandProcessor        db-writer-0 thread
 | SQLite (xerial jdbc) | 3.45.1.0 | Embedded database |
 | JUnit Jupiter | 5.10.2 | Unit & integration tests |
 | Mockito | 5.10.0 | Mocking in unit tests |
+| SLF4J Simple | 2.0.13 | Logging backend for sqlite-jdbc (bundled in fat JAR) |
 
 No Spring, no Hibernate, no external frameworks.
 
@@ -215,6 +222,8 @@ avtchtask1/
 ├── run-tests.ps1              CI script (PowerShell)
 ├── run-tests.cmd              CI script (cmd.exe)
 ├── class-diagram.drawio       Architecture class diagram
+├── async-flow.drawio          Async Command Execution Flow diagram
+├── async-batch-writer-flow.drawio  AsyncBatchWriter Flow diagram
 ├── src/
 │   ├── main/
 │   │   ├── java/com/avtchtask/

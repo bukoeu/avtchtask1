@@ -1,4 +1,186 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" version="21.0.0">
-  <diagram id="async-cmd-flow" name="Async Command Execution Flow">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</diagram>
+<mxfile host="65bd71144e">
+    <diagram id="async-cmd-flow" name="Async Command Execution Flow">
+        <mxGraphModel dx="1301" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="title" value="Async Command Execution Flow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="20" width="700" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="main_swim" value="Main Thread (stdin)" style="swimlane;startSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="90" width="200" height="620" as="geometry"/>
+                </mxCell>
+                <mxCell id="rl1" value="readLine()" style="rounded=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="main_swim" vertex="1">
+                    <mxGeometry x="20" y="50" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="parse1" value="parser.parse(line)" style="rounded=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="main_swim" vertex="1">
+                    <mxGeometry x="20" y="110" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="submit1" value="processor.submit(cmd)" style="rounded=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" parent="main_swim" vertex="1">
+                    <mxGeometry x="20" y="170" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="note_immediate" value=" returns immediately!" style="text;html=1;strokeColor=none;fillColor=#fff2cc;align=center;fontSize=10;fontStyle=2;" parent="main_swim" vertex="1">
+                    <mxGeometry x="10" y="215" width="180" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="rl2" value="readLine() (next cmd)" style="rounded=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="main_swim" vertex="1">
+                    <mxGeometry x="20" y="260" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="submit2" value="processor.submit(cmd)" style="rounded=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" parent="main_swim" vertex="1">
+                    <mxGeometry x="20" y="320" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="dots" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=20;" parent="main_swim" vertex="1">
+                    <mxGeometry x="70" y="370" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="exitwait" value="exitLatch.await()&#xa;(blocks until EXIT runs)" style="rounded=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="main_swim" vertex="1">
+                    <mxGeometry x="20" y="430" width="160" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="shutdown" value="executor.shutdown()&#xa;awaitTermination(10s)" style="rounded=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="main_swim" vertex="1">
+                    <mxGeometry x="20" y="500" width="160" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="done" value="System exits cleanly" style="rounded=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="main_swim" vertex="1">
+                    <mxGeometry x="20" y="570" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="a1" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="main_swim" source="rl1" target="parse1" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="a2" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="main_swim" source="parse1" target="submit1" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="a3" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="main_swim" source="rl2" target="submit2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="a4" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="main_swim" source="exitwait" target="shutdown" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="a5" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="main_swim" source="shutdown" target="done" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="cp_swim" value="CommandProcessor" style="swimlane;startSize=30;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="90" width="210" height="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="exec_service" value="ExecutorService&#xa;newFixedThreadPool(4)" style="rounded=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="cp_swim" vertex="1">
+                    <mxGeometry x="25" y="50" width="160" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="queue" value="Internal Queue" style="shape=mxgraph.flowchart.queue;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" parent="cp_swim" vertex="1">
+                    <mxGeometry x="35" y="130" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="shutdown_flag" value="AtomicBoolean&#xa;shutdownSignaled" style="rounded=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" parent="cp_swim" vertex="1">
+                    <mxGeometry x="25" y="250" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="exit_latch" value="CountDownLatch&#xa;exitLatch (count=1)" style="rounded=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" parent="cp_swim" vertex="1">
+                    <mxGeometry x="25" y="330" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="worker_swim" value="Worker Threads (x44)" style="swimlane;startSize=30;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="90" width="220" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="cmd_exec" value="cmd.execute()" style="rounded=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;" parent="worker_swim" vertex="1">
+                    <mxGeometry x="20" y="50" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="service_call" value="service.login() /&#xa;service.modify() /&#xa;statsService.report()" style="rounded=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="worker_swim" vertex="1">
+                    <mxGeometry x="20" y="110" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="enqueue" value="writer.enqueue(sql)" style="rounded=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;" parent="worker_swim" vertex="1">
+                    <mxGeometry x="20" y="200" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="future_get" value="future.get() &#xa;blocks until committed" style="rounded=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="worker_swim" vertex="1">
+                    <mxGeometry x="20" y="260" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="exit_signal" value="ExitCommand:&#xa;processor.signalExit()&#xa;exitLatch.countDown()" style="rounded=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" parent="worker_swim" vertex="1">
+                    <mxGeometry x="20" y="360" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="c1" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="worker_swim" source="cmd_exec" target="service_call" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="c2" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="worker_swim" source="service_call" target="enqueue" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="c3" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="worker_swim" source="enqueue" target="future_get" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="db_swim" value="db-writer-0 (single thread)" style="swimlane;startSize=30;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="870" y="90" width="220" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="poll" value="poll(10 ms)" style="rounded=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="db_swim" vertex="1">
+                    <mxGeometry x="20" y="50" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="drain" value="drainTo(batch, batchSize)" style="rounded=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="db_swim" vertex="1">
+                    <mxGeometry x="20" y="110" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="lock" value="lock.lock()&#xa;ReentrantLock(fair=true)" style="rounded=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="db_swim" vertex="1">
+                    <mxGeometry x="20" y="170" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="txn" value="BEGIN TRANSACTION&#xa;-&gt; execute each SQL&#xa;COMMIT" style="rounded=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="db_swim" vertex="1">
+                    <mxGeometry x="20" y="240" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="unlock" value="lock.unlock()" style="rounded=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="db_swim" vertex="1">
+                    <mxGeometry x="20" y="320" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="complete_futures" value="future.complete() OK&#xa;releases worker threads" style="rounded=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="db_swim" vertex="1">
+                    <mxGeometry x="20" y="380" width="180" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="d2" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="db_swim" source="poll" target="drain" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="d3" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="db_swim" source="drain" target="lock" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="d4" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="db_swim" source="lock" target="txn" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="d5" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="db_swim" source="txn" target="unlock" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="d6" value="" style="edgeStyle=orthogonalEdgeStyle;" parent="db_swim" source="unlock" target="complete_futures" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="b1" value="submit()" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#82b366;fontColor=#82b366;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.016;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="submit1" target="queue" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="b2" value="" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#82b366;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.6;entryDx=0;entryDy=0;" parent="1" source="submit2" target="queue" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="280" y="430"/>
+                            <mxPoint x="280" y="262"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="b3" value="worker picks up" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#9673a6;fontColor=#9673a6;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="queue" target="cmd_exec" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="d1" value="WriteTask" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#d79b00;fontColor=#d79b00;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="enqueue" target="poll" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="e1" value="future.complete()" style="edgeStyle=orthogonalEdgeStyle;dashed=1;strokeColor=#82b366;fontColor=#82b366;fontStyle=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="complete_futures" target="future_get" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="e2" value="countDown()" style="edgeStyle=orthogonalEdgeStyle;dashed=1;strokeColor=#b85450;fontColor=#b85450;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="exit_signal" target="exit_latch" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="e3" value="releases await()" style="edgeStyle=orthogonalEdgeStyle;dashed=1;strokeColor=#b85450;fontColor=#b85450;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="exit_latch" target="exitwait" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_title" value="Legend" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="740" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg1" value="Main Thread" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="780" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg2" value="CommandProcessor" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+                    <mxGeometry x="175" y="780" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg3" value="Worker Threads" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="780" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg4" value="db-writer-0 / Write" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="495" y="780" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg5" value="Lock / Sync / Exit" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="780" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="leg_dashed" value="--- Async signal / callback" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=11;" parent="1" vertex="1">
+                    <mxGeometry x="815" y="780" width="230" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
 </mxfile>
